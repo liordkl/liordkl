@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there :) ✨
 
-Welcome to my place of experiments.
+Welcome to my sandbox.
 
 <!--
 **liordkl/liordkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋 Welcome
 -->
